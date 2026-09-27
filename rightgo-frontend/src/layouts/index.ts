@@ -1,2 +1,0 @@
-// Layouts module export
-export {};
